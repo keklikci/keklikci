@@ -8,8 +8,8 @@
 - [keklikci/driver-intention-monitoring](https://github.com/keklikci/driver-intention-monitoring) — Standalone, data-independent research implementation of a driver-intention-monitoring workflow. (1 week ago)
 - [keklikci/customer-behavior-modeling-for-ecommerce](https://github.com/keklikci/customer-behavior-modeling-for-ecommerce) — Spark feature engineering for ecommerce customer behavior. (1 week ago)
 - [keklikci/applied-optimization-methods-for-inverse-problems](https://github.com/keklikci/applied-optimization-methods-for-inverse-problems) — Educational implementations and experiments for applied optimization methods in inverse problems. (1 week ago)
-- [keklikci/python-agent-forge](https://github.com/keklikci/python-agent-forge) — Python repository automation with uv, Ruff, pytest, and parallel PR workflows. (1 week ago)
-- [keklikci/deeptest-talking-manual-26](https://github.com/keklikci/deeptest-talking-manual-26) — Exida test generator for DeepTest 2026: testing safety-warning omissions in LLM-based automotive manual assistants. (1 week ago)
+- [keklikci/python-agent-forge](https://github.com/keklikci/python-agent-forge) — Python repository automation with uv, Ruff, pytest, and parallel PR workflows. (2 weeks ago)
+- [keklikci/deeptest-talking-manual-26](https://github.com/keklikci/deeptest-talking-manual-26) — Exida test generator for DeepTest 2026: testing safety-warning omissions in LLM-based automotive manual assistants. (2 weeks ago)
 - [keklikci/cpp-agent-forge](https://github.com/keklikci/cpp-agent-forge) — C&#43;&#43; repository automation for autonomous planning, implementation, and pull-request review agents. (2 weeks ago)
 
 ## 🌱 Latest repositories
