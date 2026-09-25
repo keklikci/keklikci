@@ -15,3 +15,14 @@
 {{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+
+---
+
+<div align="center">
+  <a href="https://commit-history.com/keklikci">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/keklikci?theme=dark" />
+      <img alt="keklikci's contribution history" src="https://commit-history.com/embed/keklikci" />
+    </picture>
+  </a>
+</div>

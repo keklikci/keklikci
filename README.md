@@ -39,3 +39,14 @@
 - [feat(experiments): add reusable detection scripts](https://github.com/keklikci/predictive-maintenance/pull/2) on [keklikci/predictive-maintenance](https://github.com/keklikci/predictive-maintenance) (1 month ago)
 - [test(emergency-stop): cover fund transfers](https://github.com/keklikci/finite-state-machine-sol/pull/3) on [keklikci/finite-state-machine-sol](https://github.com/keklikci/finite-state-machine-sol) (1 month ago)
 - [fix(contracts): transfer emergency withdrawal funds](https://github.com/keklikci/finite-state-machine-sol/pull/2) on [keklikci/finite-state-machine-sol](https://github.com/keklikci/finite-state-machine-sol) (1 month ago)
+
+---
+
+<div align="center">
+  <a href="https://commit-history.com/keklikci">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/keklikci?theme=dark" />
+      <img alt="keklikci's contribution history" src="https://commit-history.com/embed/keklikci" />
+    </picture>
+  </a>
+</div>
