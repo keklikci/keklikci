@@ -1,4 +1,15 @@
-## 👷 Recent contributions
+## 📈 All contributions
+
+<div align="center">
+  <a href="https://commit-history.com/keklikci">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/keklikci?theme=dark" />
+      <img alt="keklikci's contribution history" src="https://commit-history.com/embed/keklikci" />
+    </picture>
+  </a>
+</div>
+
+## 👷 Recent public contributions
 
 
 - [keklikci/dream-challenge](https://github.com/keklikci/dream-challenge) — Model gene expression from promoter sequences in the DREAM challenge. (1 month ago)
@@ -12,7 +23,7 @@
 - [keklikci/deeptest-talking-manual-26](https://github.com/keklikci/deeptest-talking-manual-26) — Exida test generator for DeepTest 2026: testing safety-warning omissions in LLM-based automotive manual assistants. (1 month ago)
 - [keklikci/cpp-agent-forge](https://github.com/keklikci/cpp-agent-forge) — C&#43;&#43; repository automation for autonomous planning, implementation, and pull-request review agents. (1 month ago)
 
-## 🌱 Latest repositories
+## 🌱 Latest public repositories
 
 
 - [keklikci/driver-intention-monitoring](https://github.com/keklikci/driver-intention-monitoring) — Standalone, data-independent research implementation of a driver-intention-monitoring workflow.
@@ -26,7 +37,7 @@
 - [keklikci/normalizing-flows](https://github.com/keklikci/normalizing-flows) — Beta-VAE experiments with normalizing flows for variational inference and generative modeling.
 - [keklikci/parallel-systems-forge](https://github.com/keklikci/parallel-systems-forge) — A practical collection of portable systems-programming experiments covering file processing, memory mapping, thread coordination, bounded allocation, and the Dining Philosophers problem.
 
-## 🔨 Recent pull requests
+## 🔨 Recent public pull requests
 
 
 - [docs(project): remove obsolete stacked PR guidance](https://github.com/keklikci/customer-behavior-modeling-for-ecommerce/pull/6) on [keklikci/customer-behavior-modeling-for-ecommerce](https://github.com/keklikci/customer-behavior-modeling-for-ecommerce) (1 month ago)
@@ -39,14 +50,3 @@
 - [feat(experiments): add reusable detection scripts](https://github.com/keklikci/predictive-maintenance/pull/2) on [keklikci/predictive-maintenance](https://github.com/keklikci/predictive-maintenance) (1 month ago)
 - [test(emergency-stop): cover fund transfers](https://github.com/keklikci/finite-state-machine-sol/pull/3) on [keklikci/finite-state-machine-sol](https://github.com/keklikci/finite-state-machine-sol) (1 month ago)
 - [fix(contracts): transfer emergency withdrawal funds](https://github.com/keklikci/finite-state-machine-sol/pull/2) on [keklikci/finite-state-machine-sol](https://github.com/keklikci/finite-state-machine-sol) (1 month ago)
-
----
-
-<div align="center">
-  <a href="https://commit-history.com/keklikci">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/keklikci?theme=dark" />
-      <img alt="keklikci's contribution history" src="https://commit-history.com/embed/keklikci" />
-    </picture>
-  </a>
-</div>

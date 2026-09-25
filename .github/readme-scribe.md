@@ -18,4 +18,6 @@ runs happen daily at 00:00 UTC and commit only when the rendered README changes.
 
 The template embeds a live chart from `commit-history.com` for `keklikci`. It
 requires no additional workflow step or secret and tracks aggregate
-contribution counts over time, including anonymized private contributions.
+contribution counts over time, including anonymized private contributions. The
+detailed recent-contributions list remains public-only because listing private
+entries would disclose their context.

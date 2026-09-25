@@ -1,22 +1,4 @@
-## 👷 Recent contributions
-
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) — {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
-## 🌱 Latest repositories
-
-{{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) — {{.Description}}
-{{- end}}
-
-## 🔨 Recent pull requests
-
-{{range recentPullRequests 10}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
----
+## 📈 All contributions
 
 <div align="center">
   <a href="https://commit-history.com/keklikci">
@@ -26,3 +8,21 @@
     </picture>
   </a>
 </div>
+
+## 👷 Recent public contributions
+
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) — {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+## 🌱 Latest public repositories
+
+{{range recentRepos 10}}
+- [{{.Name}}]({{.URL}}) — {{.Description}}
+{{- end}}
+
+## 🔨 Recent public pull requests
+
+{{range recentPullRequests 10}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
