@@ -13,11 +13,11 @@
 
 
 - [keklikci/dream-challenge](https://github.com/keklikci/dream-challenge) — Model gene expression from promoter sequences in the DREAM challenge. (1 month ago)
-- [keklikci/finite-state-machine-sol](https://github.com/keklikci/finite-state-machine-sol) — Solidity patterns and a product-validation finite state machine built with Truffle. (1 month ago)
+- [keklikci/customer-behavior-modeling-for-ecommerce](https://github.com/keklikci/customer-behavior-modeling-for-ecommerce) — Spark feature engineering for ecommerce customer behavior. (1 month ago)
 - [keklikci/normalizing-flows](https://github.com/keklikci/normalizing-flows) — Beta-VAE experiments with normalizing flows for variational inference and generative modeling. (1 month ago)
 - [keklikci/predictive-maintenance](https://github.com/keklikci/predictive-maintenance) — Reproducible predictive maintenance experiments and anomaly detection tools. (1 month ago)
 - [keklikci/driver-intention-monitoring](https://github.com/keklikci/driver-intention-monitoring) — Standalone, data-independent research implementation of a driver-intention-monitoring workflow. (1 month ago)
-- [keklikci/customer-behavior-modeling-for-ecommerce](https://github.com/keklikci/customer-behavior-modeling-for-ecommerce) — Spark feature engineering for ecommerce customer behavior. (1 month ago)
+- [keklikci/finite-state-machine-sol](https://github.com/keklikci/finite-state-machine-sol) — Solidity patterns and a product-validation finite state machine built with Truffle. (1 month ago)
 - [keklikci/applied-optimization-methods-for-inverse-problems](https://github.com/keklikci/applied-optimization-methods-for-inverse-problems) — Educational implementations and experiments for applied optimization methods in inverse problems. (1 month ago)
 - [keklikci/python-agent-forge](https://github.com/keklikci/python-agent-forge) — Python repository automation with uv, Ruff, pytest, and parallel PR workflows. (1 month ago)
 - [keklikci/deeptest-talking-manual-26](https://github.com/keklikci/deeptest-talking-manual-26) — Exida test generator for DeepTest 2026: testing safety-warning omissions in LLM-based automotive manual assistants. (1 month ago)
