@@ -35,15 +35,15 @@
 
 
 - [keklikci/dream-challenge](https://github.com/keklikci/dream-challenge) — Model gene expression from promoter sequences in the DREAM challenge. (2 months ago)
-- [keklikci/finite-state-machine-sol](https://github.com/keklikci/finite-state-machine-sol) — Solidity patterns and a product-validation finite state machine built with Truffle. (2 months ago)
+- [keklikci/customer-behavior-modeling-for-ecommerce](https://github.com/keklikci/customer-behavior-modeling-for-ecommerce) — Spark feature engineering for ecommerce customer behavior. (2 months ago)
 - [keklikci/normalizing-flows](https://github.com/keklikci/normalizing-flows) — Beta-VAE experiments with normalizing flows for variational inference and generative modeling. (2 months ago)
 - [keklikci/predictive-maintenance](https://github.com/keklikci/predictive-maintenance) — Reproducible predictive maintenance experiments and anomaly detection tools. (2 months ago)
 - [keklikci/driver-intention-monitoring](https://github.com/keklikci/driver-intention-monitoring) — Standalone, data-independent research implementation of a driver-intention-monitoring workflow. (2 months ago)
-- [keklikci/customer-behavior-modeling-for-ecommerce](https://github.com/keklikci/customer-behavior-modeling-for-ecommerce) — Spark feature engineering for ecommerce customer behavior. (2 months ago)
+- [keklikci/finite-state-machine-sol](https://github.com/keklikci/finite-state-machine-sol) — Solidity patterns and a product-validation finite state machine built with Truffle. (2 months ago)
 - [keklikci/applied-optimization-methods-for-inverse-problems](https://github.com/keklikci/applied-optimization-methods-for-inverse-problems) — Educational implementations and experiments for applied optimization methods in inverse problems. (2 months ago)
 - [keklikci/python-agent-forge](https://github.com/keklikci/python-agent-forge) — Python repository automation with uv, Ruff, pytest, and parallel PR workflows. (2 months ago)
 - [keklikci/deeptest-talking-manual-26](https://github.com/keklikci/deeptest-talking-manual-26) — Exida test generator for DeepTest 2026: testing safety-warning omissions in LLM-based automotive manual assistants. (2 months ago)
-- [keklikci/cpp-agent-forge](https://github.com/keklikci/cpp-agent-forge) — C&#43;&#43; repository automation for autonomous planning, implementation, and pull-request review agents. (2 months ago)
+- [keklikci/cpp-agent-forge](https://github.com/keklikci/cpp-agent-forge) — C&#43;&#43; repository automation for autonomous planning, implementation, and pull-request review agents. (3 months ago)
 
 ## 🌱 Latest public repositories
 
